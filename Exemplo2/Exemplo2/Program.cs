@@ -30,7 +30,7 @@ namespace Aula1_Exemplo2
             Console.WriteLine(a + "*" + b + "=" + (a * b));
             Console.WriteLine(a + "/" + b + "=" + (a / b));
             Console.WriteLine(a + "%" + b + "=" + (a % b));
-            Console.WriteLine("Hello Word");
+           
 
             Console.ReadKey();//instrução utilizada para dar uma pausa para visualizão 
 
